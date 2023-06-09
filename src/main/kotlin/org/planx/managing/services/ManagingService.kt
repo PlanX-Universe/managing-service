@@ -17,6 +17,7 @@ import reactor.core.publisher.Flux
 import reactor.core.publisher.Mono
 import reactor.kotlin.core.publisher.toFlux
 import org.planx.common.models.CallStack
+import org.planx.common.models.FunctionalityType
 import org.planx.common.models.CustomErrorMessage
 import org.planx.common.models.MutableStack
 import org.planx.common.models.endpoint.solving.SolvingRequest
